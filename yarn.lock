@@ -3502,9 +3502,9 @@ expo-image-manipulator@~12.0.5:
   dependencies:
     expo-image-loader "~4.7.0"
 
-expo-image-picker@^15.0.7:
+expo-image-picker@~15.0.7:
   version "15.0.7"
-  resolved "https://registry.npmjs.org/expo-image-picker/-/expo-image-picker-15.0.7.tgz"
+  resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-15.0.7.tgz#eb25abfdb03cb940f0418add3d9814439526b025"
   integrity sha512-u8qiPZNfDb+ap6PJ8pq2iTO7JKX+ikAUQ0K0c7gXGliKLxoXgDdDmXxz9/6QdICTshJBJlBvI0MwY5NWu7A/uw==
   dependencies:
     expo-image-loader "~4.7.0"
@@ -3522,10 +3522,10 @@ expo-linking@~6.3.1:
     expo-constants "~16.0.0"
     invariant "^2.2.4"
 
-expo-media-library@^16.0.4:
-  version "16.0.4"
-  resolved "https://registry.npmjs.org/expo-media-library/-/expo-media-library-16.0.4.tgz"
-  integrity sha512-nX9iN8+XAoERDVGPpDdUbhFwvfYdBpkgTAxwDOYL7heASYCOdxfqQtXy/jv1+QZpj0epaR6Owq/LUn1lVP3ykg==
+expo-media-library@^16.0.5:
+  version "16.0.5"
+  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-16.0.5.tgz#5827f237f4425088bdb15f1f0949916613d0ae3d"
+  integrity sha512-O9RUqBWgJVRF0mO6EiLSBFyfb5wR1/ZqovbT43V0TAo5sgcjrHRs+0NID/U6BWDRuiFeX2AU516JgNDutNUFSw==
 
 expo-modules-autolinking@1.11.2:
   version "1.11.2"
